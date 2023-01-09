@@ -1,0 +1,105 @@
+body
+{
+    background-color: #3d4953 ;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    color: white;
+}
+    
+#titre_principal
+{
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+#bloc_page
+{
+    width: 900px;
+    margin: auto;
+}
+
+section h1, footer h1, nav a
+{
+    font-family: Dayrom, serif;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+header
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+
+
+nav a
+{
+    font-size: 1.3em;
+    color: white;
+    padding-bottom: 3px;
+    text-decoration: none;
+}
+
+nav ul
+{
+    list-style-type: none;
+    display: flex;
+    color: white ;
+    
+}
+
+nav li
+{
+    margin-right: 15px;
+}
+
+aside
+{
+    position: absolute;
+    width: 500px;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    font-size: 0.9em;
+}
+
+#fleche_bulle1
+{
+    position: absolute;
+    top: 100px;
+    left: -12px;
+}
+
+
+
+photo_image1 img
+{
+    border: 2px solid #ffffff; 
+    border-radius: 20px
+}
+
+photo_image2 img
+{
+    border: 2px solid #ffffff; 
+    border-radius: 20px
+}
+
+photo_image3 img
+{
+    border: 2px solid #ffffff; 
+    border-radius: 20px
+}
+
+photo_image4 img
+{
+    border: 2px solid #ffffff; 
+    border-radius: 20px
+}
+
+photo_image5 img
+{
+    border: 2px solid #ffffff; 
+    border-radius: 20px
+}
